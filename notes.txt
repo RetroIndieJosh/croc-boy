@@ -1,0 +1,9 @@
+- fade betweeen areas
+
+AREA 1
+
+AREA 2
+- crocodile suit out of reach
+
+AREA 3
+- item to retrieve crocodile suit
